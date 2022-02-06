@@ -7,3 +7,5 @@ In a rapidly evolving society, technological advancements are playing a critical
 Computer science, computer engineering, and cybersecurity are some of the industries that are undoubtedly going to define the future of humanity, and I want to make it my goal to help that happen.
 
 My main account, which has my personal projects > [holden-davis](https://github.com/holden-davis)
+
+[![Holden's GitHub stats](https://github-readme-stats.vercel.app/api?username=holden-davis-uca&theme=github_dark)](https://github.com/holden-davis-uca/github-readme-stats)
